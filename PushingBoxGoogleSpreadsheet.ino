@@ -23,7 +23,7 @@ Derived from Yún HTTP Client Sketch
 /////////////////
 
 // Add your PushingBox Scenario DeviceID here:
-  char devid[] = "v963896FDE673C9F";
+  char devid[] = "vF1A8C28749D444A";
   
   //////////////
  //   End    //
@@ -74,5 +74,3 @@ void loop() {
   Serial.print(sensorValue);
   delay(5000);
 }
-
-
